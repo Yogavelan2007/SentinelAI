@@ -20,12 +20,15 @@ SentinelAI uses EfficientNet architecture to analyze facial images through a liv
 - MTCNN (facenet-pytorch)
 
 ## 🚀 How to Run
+
+```bash
 git clone https://github.com/Yogavelan2007/SentinelAI.git
 cd SentinelAI
 python -m venv venv
 venv\Scripts\activate
 pip install torch torchvision timm facenet-pytorch opencv-python
 python deepfake_detector.py
+```
 
 ## 📊 How it Works
 1. Webcam captures live video feed
