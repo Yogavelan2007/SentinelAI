@@ -37,6 +37,6 @@ python deepfake_detector.py
 4. REAL / FAKE label shown with confidence %
 
 ## 👨‍💻 Author
-**YOGAVELAN M D** — 3rd Year Engineering Student  
+**YOGAVELAN M D**   
 🔗 [GitHub Profile](https://github.com/Yogavelan2007)  
 📁 [Project Repository](https://github.com/Yogavelan2007/SentinelAI)
